@@ -1,0 +1,654 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog catalog-id="master-catalog" xmlns="http://www.demandware.com/xml/impex/catalog/2006-10-31">
+  <header>
+    <image-settings>
+      <internal-location base-path="/" />
+      <view-types>
+        <view-type>large</view-type>
+        <view-type>medium</view-type>
+        <view-type>small</view-type>
+        <view-type>swatch</view-type>
+      </view-types>
+      <variation-attribute-id>f54ProductColor</variation-attribute-id>
+      <alt-pattern>${productname}</alt-pattern>
+      <title-pattern>${productname}</title-pattern>
+    </image-settings>
+  </header>
+  <product product-id="869200263-m">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="large" />
+      <image-group view-type="large" variation-value="BLACK" />
+    </images>
+    <tax-class-id>f54tax</tax-class-id>
+    <brand>lululemon</brand>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54PLPTag">
+        <value></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54CreationDateFactory54">2023-05-24</custom-attribute>
+      <custom-attribute attribute-id="f54Audience" />
+      <custom-attribute attribute-id="F54ClubAccumulating">0</custom-attribute>
+      <custom-attribute attribute-id="f54BrandDepartement">
+        <value>B</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54Composition">84% ניילון 16% אלסטן</custom-attribute>
+      <custom-attribute attribute-id="f54CustomTags">
+        <value>BEST SELLERS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54Dimension"></custom-attribute>
+      <custom-attribute attribute-id="f54EmployeDiscountQualification" xml:lang="x-default">54</custom-attribute>
+      <custom-attribute attribute-id="f54Fit">&lt;br&gt;</custom-attribute>
+      <custom-attribute attribute-id="f54MadeIn">Indonesia</custom-attribute>
+      <custom-attribute attribute-id="f54ParallelSku">LU9AYKS 0001</custom-attribute>
+      <custom-attribute attribute-id="f54ProductFamily">FAST AND FREE</custom-attribute>
+      <custom-attribute attribute-id="f54ProductVideo"></custom-attribute>
+      <custom-attribute attribute-id="f54Programa">
+        <value>אביזרי ספורט</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54Season">S/S 2023</custom-attribute>
+      <custom-attribute attribute-id="f54SizeRunCode"></custom-attribute>
+      <custom-attribute attribute-id="f54Style">LU9AYKS</custom-attribute>
+      <custom-attribute attribute-id="f54SubBrand">LULULEMON AXS-Equipment</custom-attribute>
+      <custom-attribute attribute-id="f54SubSeason">PRE</custom-attribute>
+      <custom-attribute attribute-id="f54SupplierColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54SupplierDescription">עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</custom-attribute>
+      <custom-attribute attribute-id="f54WashingInstruction"></custom-attribute>
+      <custom-attribute attribute-id="f54DistributionChannel" />
+      <custom-attribute attribute-id="f54searchExcluded">false</custom-attribute>
+    </custom-attributes>
+    <variations>
+      <attributes>
+        <variation-attribute attribute-id="f54ProductColor" variation-attribute-id="f54ProductColor">
+          <display-name>Color</display-name>
+          <variation-attribute-values>
+            <variation-attribute-value value="BLACK">
+              <display-value>שחור</display-value>
+              <description></description>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+        <variation-attribute attribute-id="f54ProductSize" variation-attribute-id="f54ProductSize">
+          <variation-attribute-values>
+            <variation-attribute-value value="LXL">
+              <display-value>$</display-value>
+              <description>;$</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="ML">
+              <display-value>$</display-value>
+              <description>;$</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="SM">
+              <display-value>$</display-value>
+              <description>;$</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="XLL">
+              <display-value>$</display-value>
+              <description>;$</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="XSS">
+              <display-value>$</display-value>
+              <description>;$</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="UNI">
+              <display-value>$</display-value>
+              <description>;$</description>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+      </attributes>
+      <variants>
+        <variant product-id="869200263LXL" default="true" />
+        <variant product-id="869200263ML" />
+        <variant product-id="869200263SM" />
+        <variant product-id="869200263XLL" />
+        <variant product-id="869200263XSS" />
+        <variant product-id="869200263UNI" />
+      </variants>
+      <variation-groups>
+        <variation-group product-id="869200263" />
+      </variation-groups>
+    </variations>
+  </product>
+  <product product-id="869200263LXL">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">LXL</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>גברים</value>
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">LXL</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="869200263ML">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">ML</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>גברים</value>
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">ML</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="869200263SM">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">SM</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>גברים</value>
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">SM</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="869200263XLL">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">XLL</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>גברים</value>
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">XLL</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="869200263XSS">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">XSS</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>גברים</value>
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">XSS</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="869200263UNI">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">UNI</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>גברים</value>
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">UNI</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="869200263">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default">Fast and Free Running Armband</display-name>
+    <short-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>עוצב במיוחד עבור ריצה. סרט זרוע זה הוא קל משקל ונושם, מה שהופך אותו מושלם לריצות ארוכות. כיס עם התאמה למסך מגע, שומר על בטיחות הטלפון שלך וצמוד לזרועך. לסרט זה יש סגירת וו כפולה כדי להתאים לך אישית. טכנולוגיה: מתיחה לארבעה כיוונים. מנדף זיעה. מתייבש מהר ותוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <brand>lululemon</brand>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54Campaign">True</custom-attribute>
+      <custom-attribute attribute-id="f54BrandDepartement" xml:lang="x-default">
+        <value>B</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54Gender" xml:lang="x-default">יוניסקס</custom-attribute>
+      <custom-attribute attribute-id="f54ProductType" xml:lang="x-default">לייף סטייל</custom-attribute>
+      <custom-attribute attribute-id="f54ProductFamily" xml:lang="x-default">FAST AND FREE</custom-attribute>
+      <custom-attribute attribute-id="f54ModelSize" xml:lang="x-default"></custom-attribute>
+      <custom-attribute attribute-id="f54Fit" xml:lang="x-default">&lt;br&gt;</custom-attribute>
+      <custom-attribute attribute-id="f54Dimension" xml:lang="x-default"></custom-attribute>
+      <custom-attribute attribute-id="f54Composition" xml:lang="x-default">84% ניילון 16% אלסטן</custom-attribute>
+      <custom-attribute attribute-id="f54VimeoTitle" xml:lang="x-default"></custom-attribute>
+      <custom-attribute attribute-id="f54CreationDateFactory54">2023-05-24</custom-attribute>
+      <custom-attribute attribute-id="f54Season" xml:lang="x-default">S/S 2023</custom-attribute>
+      <custom-attribute attribute-id="f54SubSeason" xml:lang="x-default">PRE</custom-attribute>
+      <custom-attribute attribute-id="sale_classification">0</custom-attribute>
+      <custom-attribute attribute-id="sale_classification2"></custom-attribute>
+      <custom-attribute attribute-id="f54DiscountPrecent"></custom-attribute>
+      <custom-attribute attribute-id="f54SalePrice">160</custom-attribute>
+      <custom-attribute attribute-id="f54ClubPrice">160</custom-attribute>
+      <custom-attribute attribute-id="lookImage" xml:lang="x-default" />
+      <custom-attribute attribute-id="lookProductIds" xml:lang="x-default" />
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+      <custom-attribute attribute-id="Category1Level" xml:lang="x-default">
+        <value>לייף סטייל</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="Category2Level" xml:lang="x-default">
+        <value>אביזרי ספורט</value>
+      </custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="869200327-m">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default"> Wunder Train Wide Back Tank Top B/C Cups </display-name>
+    <short-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <images>
+      <image-group view-type="large" />
+      <image-group view-type="large" variation-value="BLACK" />
+    </images>
+    <tax-class-id>f54tax</tax-class-id>
+    <brand>lululemon</brand>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54PLPTag">
+        <value></value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54CreationDateFactory54">2023-05-24</custom-attribute>
+      <custom-attribute attribute-id="f54Audience" />
+      <custom-attribute attribute-id="F54ClubAccumulating">0</custom-attribute>
+      <custom-attribute attribute-id="f54BrandDepartement">
+        <value>B</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54Composition">77% ניילון 23% אלסטן</custom-attribute>
+      <custom-attribute attribute-id="f54CustomTags">
+        <value>BEST SELLERS</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54Dimension"></custom-attribute>
+      <custom-attribute attribute-id="f54EmployeDiscountQualification" xml:lang="x-default">54</custom-attribute>
+      <custom-attribute attribute-id="f54Fit">נאמן למידה המקורית, מומלץ לקחת את המידה הרגילה שלך&lt;br&gt;גזרה צמודה</custom-attribute>
+      <custom-attribute attribute-id="f54MadeIn">Sri lanka</custom-attribute>
+      <custom-attribute attribute-id="f54ParallelSku">LW1DVXS 0001</custom-attribute>
+      <custom-attribute attribute-id="f54ProductFamily">WUNDER TRAIN</custom-attribute>
+      <custom-attribute attribute-id="f54ProductVideo"></custom-attribute>
+      <custom-attribute attribute-id="f54Programa">
+        <value>ספורט</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54Season">S/S 2023</custom-attribute>
+      <custom-attribute attribute-id="f54SizeRunCode"></custom-attribute>
+      <custom-attribute attribute-id="f54Style">LW1DVXS</custom-attribute>
+      <custom-attribute attribute-id="f54SubBrand">LULULEMON Train</custom-attribute>
+      <custom-attribute attribute-id="f54SubSeason">PRE</custom-attribute>
+      <custom-attribute attribute-id="f54SupplierColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54SupplierDescription">גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</custom-attribute>
+      <custom-attribute attribute-id="f54WashingInstruction">כביסת מכונה בהתאם להוראות היצרן</custom-attribute>
+      <custom-attribute attribute-id="f54DistributionChannel" />
+      <custom-attribute attribute-id="f54searchExcluded">false</custom-attribute>
+    </custom-attributes>
+    <variations>
+      <attributes>
+        <variation-attribute attribute-id="f54ProductColor" variation-attribute-id="f54ProductColor">
+          <display-name>Color</display-name>
+          <variation-attribute-values>
+            <variation-attribute-value value="BLACK">
+              <display-value>שחור</display-value>
+              <description></description>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+        <variation-attribute attribute-id="f54ProductSize" variation-attribute-id="f54ProductSize">
+          <variation-attribute-values>
+            <variation-attribute-value value="0">
+              <display-value>XXS</display-value>
+              <description>US;XXS</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="2">
+              <display-value>XS</display-value>
+              <description>US;XS</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="4">
+              <display-value>S</display-value>
+              <description>US;S</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="6">
+              <display-value>M</display-value>
+              <description>US;M</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="8">
+              <display-value>M</display-value>
+              <description>US;M-L</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="10">
+              <display-value>L</display-value>
+              <description>US;L</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="12">
+              <display-value>XL</display-value>
+              <description>US;XL</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="14">
+              <display-value>XXL</display-value>
+              <description>US;XXL</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="16">
+              <display-value>3XL</display-value>
+              <description>US;3XL</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="18">
+              <display-value>4XL</display-value>
+              <description>US;4XL</description>
+            </variation-attribute-value>
+            <variation-attribute-value value="20">
+              <display-value>5XL</display-value>
+              <description>US;5XL</description>
+            </variation-attribute-value>
+          </variation-attribute-values>
+        </variation-attribute>
+      </attributes>
+      <variants>
+        <variant product-id="8692003270" default="true" />
+        <variant product-id="8692003272" />
+        <variant product-id="8692003274" />
+        <variant product-id="8692003276" />
+        <variant product-id="8692003278" />
+        <variant product-id="86920032710" />
+        <variant product-id="86920032712" />
+        <variant product-id="86920032714" />
+        <variant product-id="86920032716" />
+        <variant product-id="86920032718" />
+        <variant product-id="86920032720" />
+      </variants>
+      <variation-groups>
+        <variation-group product-id="869200327" />
+      </variation-groups>
+    </variations>
+  </product>
+  <product product-id="8692003270">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default"> Wunder Train Wide Back Tank Top B/C Cups </display-name>
+    <short-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">0</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">XXS</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="8692003272">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default"> Wunder Train Wide Back Tank Top B/C Cups </display-name>
+    <short-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">2</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">XS</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="8692003274">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default"> Wunder Train Wide Back Tank Top B/C Cups </display-name>
+    <short-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">4</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">S</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="8692003276">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default"> Wunder Train Wide Back Tank Top B/C Cups </display-name>
+    <short-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">6</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">M</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="8692003278">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default"> Wunder Train Wide Back Tank Top B/C Cups </display-name>
+    <short-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">8</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">M</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+  <product product-id="86920032710">
+    <ean />
+    <upc />
+    <unit />
+    <min-order-quantity>1</min-order-quantity>
+    <step-quantity>1</step-quantity>
+    <display-name xml:lang="x-default"> Wunder Train Wide Back Tank Top B/C Cups </display-name>
+    <short-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</short-description>
+    <long-description>גופיית אימון העשויה מהבד הנושם - Everlux™ המתייבש במהירות המהווה תמיכה ומתאים לאימונים. כולל תוספת סיבי Lycra® עבור מתיחה ושימור צורה.</long-description>
+    <online-flag>false</online-flag>
+    <online-from>2023-05-24T00:00:00.000Z</online-from>
+    <online-to>9999-12-31T23:59:00.000Z</online-to>
+    <searchable-flag>true</searchable-flag>
+    <searchable-if-unavailable-flag>false</searchable-if-unavailable-flag>
+    <tax-class-id>f54tax</tax-class-id>
+    <page-attributes />
+    <custom-attributes>
+      <custom-attribute attribute-id="f54ProductColor">BLACK</custom-attribute>
+      <custom-attribute attribute-id="f54ProductSize">10</custom-attribute>
+      <custom-attribute attribute-id="f54Department">
+        <value>נשים</value>
+      </custom-attribute>
+      <custom-attribute attribute-id="f54FilterProductSize">L</custom-attribute>
+      <custom-attribute attribute-id="f54searchExcluded" xml:lang="x-default">false</custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonText"></custom-attribute>
+      <custom-attribute attribute-id="f54ComingSoonDate"></custom-attribute>
+    </custom-attributes>
+  </product>
+</catalog>
